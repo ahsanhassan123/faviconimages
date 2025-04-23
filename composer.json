@@ -1,5 +1,5 @@
 {
-  "name": "genkgo/favicon",
+  "name": "ahsanhassan123/faviconimages",
   "description": "Generate browser favicons",
   "license": "MIT",
   "require": {
@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Genkgo\\Favicon\\": ["src"]
+      "ahsanhassan123\\faviconimages\\": ["src"]
     }
   },
   "bin": ["bin/favicon-generator"]

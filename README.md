@@ -1,13 +1,13 @@
-# Genkgo/Favicon - Generate favicon for your website
+# ahsanhassan123/faviconimages - Generate favicon for your website
 
-[![Latest Version](https://img.shields.io/github/release/genkgo/favicon.svg?style=flat-square)](https://github.com/genkgo/favicon/releases)
+
 
 Requires PHP 8.1+ and both the imagick and DOM extension.
 
 ## Install using composer
 
 ```bash
-composer require genkgo/favicon
+composer require ahsanhassan123/faviconimages
 ```
 
 
@@ -15,7 +15,7 @@ composer require genkgo/favicon
 
 ```php
 
-use Genkgo\Favicon;
+use ahsanhassan123\faviconimages;
 
 $outputDirectory = '/var/www/html/favicon';
 
