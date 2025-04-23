@@ -1,4 +1,4 @@
-# ahsanhassan123/faviconimages - Generate favicon for your website
+# Spendstream/Favicon - Generate favicon for your website
 
 
 
@@ -7,7 +7,7 @@ Requires PHP 8.1+ and both the imagick and DOM extension.
 ## Install using composer
 
 ```bash
-composer require ahsanhassan123/faviconimages
+composer require spendstream/favicon
 ```
 
 
@@ -15,7 +15,7 @@ composer require ahsanhassan123/faviconimages
 
 ```php
 
-use ahsanhassan123\faviconimages;
+use Spendstream\Favicon;
 
 $outputDirectory = '/var/www/html/favicon';
 

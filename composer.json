@@ -1,5 +1,5 @@
 {
-  "name": "ahsanhassan123/faviconimages",
+  "name": "spendstream/favicon",
   "description": "Generate browser favicons",
   "license": "MIT",
   "require": {
@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ahsanhassan123\\faviconimages\\": ["src"]
+      "Spendstream\\Favicon\\": ["src"]
     }
   },
   "bin": ["bin/favicon-generator"]
