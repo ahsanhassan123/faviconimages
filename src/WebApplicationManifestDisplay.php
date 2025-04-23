@@ -3,7 +3,7 @@
 
 declare(strict_types=1);
 
-namespace Genkgo\Favicon;
+namespace Spendstream\Favicon;
 
 enum WebApplicationManifestDisplay: string
 {

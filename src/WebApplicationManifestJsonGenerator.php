@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Genkgo\Favicon;
+namespace Spendstream\Favicon;
 
 final class WebApplicationManifestJsonGenerator implements GeneratorInterface
 {
